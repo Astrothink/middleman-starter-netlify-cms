@@ -1,14 +1,16 @@
 ---
 title: A beginners’ guide to brewing with Chemex
 date: 2018-08-16T12:01+02:00
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+description: Brewing with a Chemex probably seems like a complicated,
+  time-consuming ordeal, but once you get used to the process, it becomes a
+  soothing ritual that's worth the effort every time.
 image: /images/uploads/news_item-02.jpg
 ---
+<script type="text/javascript">(function a(d, w, u) {var h = d.getElementsByTagName("head")[0];var s = d.createElement("script");s.type = "text/javascript";s.src = "https://portal.form.io/lib/seamless/seamless.parent.min.js";s.onload = function b() {var f = d.getElementById("formio-form-5f98156b1b761830c1c9322b");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {});};h.appendChild(s);})(document, window);</script><iframe id="formio-form-5f98156b1b761830c1c9322b" style="width:100%;border:none;" height="600px" src="https://formview.io/#/hjrhauojflfxikz/standaloneform?iframe=1&header=0"></iframe>
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+
+
+This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
